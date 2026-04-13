@@ -1,41 +1,18 @@
-                                                      Hi 👋, I'm Vijay Shete
+# 💫 About Me:
+                                                      Hi 👋, I'm Vijay Shete<br><br>• Full-Stack AI Engineer and Researcher <br>🧠 About Me<br>🔬 Research Intern at IIT Bombay: Focused on non-invasive eye-tracking technology for mental health assessment and depression screening.<br>🫀 Healthcare AI Specialist: Building high-precision diagnostic engines for PCOS screening and multimodal medical assistants.<br>🤖 LLM & Multimodal Expert: Working with Llama-4, Whisper-large-v3, and Groq LPU for real-time speech and image reasoning.<br>🏗️ Full-Stack ML Architect: Designing end-to-end systems from FastAPI backends to Dockerized cloud deployments.<br><br>💼 Tech Stack<br><br>Category                  Tools & Technologies<br><br>🧠 AI / ML,               "Python, PyTorch, TensorFlow, Scikit-learn, CatBoost "<br><br>🗣️ LLM & CV,              "Llama-4, Whisper-large-v3, gTTS, CNNs, Multimodal LLMs "<br><br>📊 Data Science,          "NumPy, Pandas, Matplotlib, Seaborn, SQL, Power BI "<br><br>🌐 Systems,               "FastAPI, Streamlit, Groq LPU (Inference Optimization) "<br><br>⚙️ MLOps & Tools,         "Docker, Git/GitHub, Hugging Face Spaces, CI/CD "<br><br>🚀 Featured Projects<br><br>🎙️ Multimodal AI Medical AssistantThe Tech: Meta-Llama-4, Whisper-large-v3, and Groq LPU API.The Impact: Analyzes X-rays/MRIs and provides real-time vocal diagnostic feedback with near-instantaneous processing.Deployment: Successfully deployed on Hugging Face.<br><br>🏥 Smart PCOS Screening SystemThe Tech: CatBoost (Diagnostic Engine), FastAPI, and Streamlit.The Results: Achieved 94% testing accuracy using clinical biomarkers with integrated NLP Chatbot support.Architecture: Containerized with Docker and automated via CI/CD pipelines.<br><br>📝 Publications & Research<br><br>Research Paper: "Industrial Revolution NLP to SQL Query Generator Using LLM" (IJIRCCE, 2025).<br>Intellectual Property: Authored copyright for original research in NLP-to-SQL generation.<br><br>📫 Connect With Me<br><br>💼 LinkedIn: [https://www.linkedin.com/in/vijay442003/] <br><br>📧 Email: vijayshete442003@gmail.com <br><br>📍 Location: Pune, Maharashtra<br>
 
-• Full-Stack AI Engineer and Researcher 
-🧠 About Me
-🔬 Research Intern at IIT Bombay: Focused on non-invasive eye-tracking technology for mental health assessment and depression screening.
-🫀 Healthcare AI Specialist: Building high-precision diagnostic engines for PCOS screening and multimodal medical assistants.
-🤖 LLM & Multimodal Expert: Working with Llama-4, Whisper-large-v3, and Groq LPU for real-time speech and image reasoning.
-🏗️ Full-Stack ML Architect: Designing end-to-end systems from FastAPI backends to Dockerized cloud deployments.
 
-💼 Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay442003/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vijay Shete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijayshete442003@gmail.com) 
 
-Category                  Tools & Technologies
+# 💻 Tech Stack:
+![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vijayshete04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vijayshete04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vijayshete04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🧠 AI / ML,               "Python, PyTorch, TensorFlow, Scikit-learn, CatBoost "
+---
+[![](https://komarev.com/ghpvc/?username=Vijayshete04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🗣️ LLM & CV,              "Llama-4, Whisper-large-v3, gTTS, CNNs, Multimodal LLMs "
-
-📊 Data Science,          "NumPy, Pandas, Matplotlib, Seaborn, SQL, Power BI "
-
-🌐 Systems,               "FastAPI, Streamlit, Groq LPU (Inference Optimization) "
-
-⚙️ MLOps & Tools,         "Docker, Git/GitHub, Hugging Face Spaces, CI/CD "
-
-🚀 Featured Projects
-
-🎙️ Multimodal AI Medical AssistantThe Tech: Meta-Llama-4, Whisper-large-v3, and Groq LPU API.The Impact: Analyzes X-rays/MRIs and provides real-time vocal diagnostic feedback with near-instantaneous processing.Deployment: Successfully deployed on Hugging Face.
-
-🏥 Smart PCOS Screening SystemThe Tech: CatBoost (Diagnostic Engine), FastAPI, and Streamlit.The Results: Achieved 94% testing accuracy using clinical biomarkers with integrated NLP Chatbot support.Architecture: Containerized with Docker and automated via CI/CD pipelines.
-
-📝 Publications & Research
-
-Research Paper: "Industrial Revolution NLP to SQL Query Generator Using LLM" (IJIRCCE, 2025).
-Intellectual Property: Authored copyright for original research in NLP-to-SQL generation.
-
-📫 Connect With Me
-
-💼 LinkedIn: [https://www.linkedin.com/in/vijay442003/] 
-
-📧 Email: vijayshete442003@gmail.com 
-
-📍 Location: Pune, Maharashtra
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
